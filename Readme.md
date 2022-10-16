@@ -17,6 +17,8 @@
 
 - ⚡ Fun fact **Knowledge is the Key to Build your Future.**
 
+<br>
+
 <h3 align="center">Where To Find Me: 📫</h3>
 <div align="center" display="flex">
   <a  href="https://www.linkedin.com/in/sunilhooda/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -29,7 +31,7 @@
 <br>
 
 <h3 align="center">Languages and Tools:</h3>
-<table align="center" width="80%">
+<table align="center" width=100%>
 <tbody>
 <tr valign="top">
 <td width="75%" align="center">

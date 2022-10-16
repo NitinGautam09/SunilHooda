@@ -29,7 +29,7 @@
 <br>
 
 <h3 align="center">Languages and Tools:</h3>
-<table align="center" width:80%>
+<table align="center" width="80%">
 <tbody>
 <tr valign="top">
 <td width="75%" align="center">

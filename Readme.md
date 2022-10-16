@@ -32,42 +32,42 @@
 <table align="center">
 <tbody>
 <tr valign="top">
-<td width="25%" align="center">
+<td width="40%" align="center">
 <span><b>HTML</b></span><br><br>
-<img height="64px" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+<img height="64px" alt="HTML5" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 </td>
-<td width="25%" align="center">
+<td width="40%" align="center">
 <span><b>CSS</b></span><br><br>
-<img height="64px" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+<img height="64px" alt="CSS3" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 </td>
-<td width="25%" align="center">
+<td width="40%" align="center">
 <span><b>JavaScript</b></span><br><br>
-<img height="64px" width="26px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<img height="64px" width="50px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 </td>
-<td width="25%" align="center">
+<td width="40%" align="center">
 <span><b>ReactJs</b></span><br><br>
-<img height="64px" width="26px" alt="ReactJs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+<img height="64px" width="50px" alt="ReactJs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 </td>
 </tr>
 
 <tr valign="top">
-<td width="25%" align="center">
+<td width="40%" align="center">
 <span><b>Redux</b></span><br><br>
-<img height="64px" width="26px" alt="Redux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
+<img height="64px" width="50px" alt="Redux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
 </td>
 
-<td width="25%" align="center">
+<td width="40%" align="center">
 <span><b>NodeJs</b></span><br><br>
-<img height="64px" width="26px" alt="NodeJs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+<img height="64px" width="50px" alt="NodeJs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 </td>
 
-<td width="25%" align="center">
+<td width="40%" align="center">
 <span><b>ExpressJs</b></span><br><br>
-<img height="64px" width="26px" alt="ExpressJs" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png">
+<img height="64px" width="50px" alt="ExpressJs" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png">
 </td>
-<td width="25%" align="center">
+<td width="40%" align="center">
 <span><b>MongoDb</b></span><br><br>
-<img height="64px" width="26px" alt="MongoDb" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
+<img height="64px" width="50px" alt="MongoDb" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
 </td>
 </tr>
 </tbody>

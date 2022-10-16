@@ -41,7 +41,7 @@
 <br>
 <br>
 
-<h3 align="left">🚀 Languages and Tools:</h3>
+<h3 align="center">🚀 Languages and Tools:</h3>
 <div align="center">
  
  <div align="center"><h3 align="center">Frontend</h3>
@@ -92,10 +92,12 @@
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
+<br />
+
 <p>
   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=SunilHooda&theme=gruvbox&hide_border=true&area=true"  width="100%"/>
 </p>
 
 <img width= 100% src="https://miro.medium.com/max/1400/1*sV60JhlYL4IdWjcNvKTJRA.png" alt="">
 
-<h3 text-align="center" >Stay Happy, Stay Motivated  <img height=50px src="https://i.pinimg.com/originals/69/52/88/69528895726f32fc384babcde61a535a.gif" alt=""></h3>
+<h3 align ="center" >Stay Happy, Stay Motivated  <img height=50px src="https://i.pinimg.com/originals/69/52/88/69528895726f32fc384babcde61a535a.gif" alt=""></h3>

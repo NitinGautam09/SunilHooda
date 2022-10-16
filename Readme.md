@@ -33,7 +33,7 @@
 <h3 align="center">Languages and Tools:</h3>
 <table align="center">
 <tbody>
-<tr valign="top" width="100%">
+<tr valign="top" width="200%">
 <td width=25%" align="center">
 <span><b>HTML</b></span><br><br>
 <img height="64px" alt="HTML5" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -52,7 +52,7 @@
 </td>
 </tr>
 
-<tr valign="top" width="100%"> 
+<tr valign="top" width="200%"> 
 <td width=25%" align="center">
 <span><b>Redux</b></span><br><br>
 <img height="64px" width="50px" alt="Redux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">

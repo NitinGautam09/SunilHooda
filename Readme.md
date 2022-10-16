@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img style="height: 40px;" src="https://i.pinimg.com/originals/0e/3e/e5/0e3ee551876e1ad2a39f89e4adf9168a.gif" alt="">, I'm Sunil Hooda</h1>
+<h1 align="center">Hi <img style="height: 40px;" src="https://i.pinimg.com/originals/0e/3e/e5/0e3ee851876e1ad2a39f89e4adf9168a.gif" alt="">, I'm Sunil Hooda</h1>
      <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;&right=true&width=400&height=50">
 
 <img style="height: 200px;" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/154158025837-LGDSGDVK6EI6PD4KK4W5/python-2.gif" alt="">
@@ -34,40 +34,40 @@
 <table align="center">
 <tbody>
 <tr valign="top">
-<td width=55%" align="center">
+<td width=85%" align="center">
 <span><b>HTML</b></span><br><br>
 <img height="64px" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 </td>
-<td width=55%" align="center">
+<td width=85%" align="center">
 <span><b>CSS</b></span><br><br>
 <img height="64px" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 </td>
-<td width=55%" align="center">
+<td width=85%" align="center">
 <span><b>JavaScript</b></span><br><br>
 <img height="64px"  alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 </td>
-<td width=55%" align="center">
+<td width=85%" align="center">
 <span><b>ReactJs</b></span><br><br>
 <img height="64px" alt="ReactJs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 </td>
 </tr>
 
 <tr valign="top"> 
-<td width=55%" align="center">
+<td width=85%" align="center">
 <span><b>Redux</b></span><br><br>
 <img height="64px"  alt="Redux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
 </td>
 
-<td width=55%" align="center">
+<td width=85%" align="center">
 <span><b>NodeJs</b></span><br><br>
 <img height="64px"  alt="NodeJs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 </td>
 
-<td width=55%" align="center">
+<td width=85%" align="center">
 <span><b>ExpressJs</b></span><br><br>
 <img height="64px"  alt="ExpressJs" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png">
 </td>
-<td width=55%" align="center">
+<td width=85%" align="center">
 <span><b>MongoDb</b></span><br><br>
 <img height="64px"  alt="MongoDb" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
 </td>

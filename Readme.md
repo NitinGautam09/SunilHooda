@@ -29,7 +29,7 @@
 <br>
 
 <h3 align="center">Languages and Tools:</h3>
-<table align="center">
+<table align="center" width:80%>
 <tbody>
 <tr valign="top">
 <td width="75%" align="center">
@@ -91,14 +91,6 @@
    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=SunilHooda&theme=gruvbox&hide_border=true&area=true"  width="100%"/>
 </p>
 
-<img style="width: 100%;" src="https://miro.medium.com/max/1400/1*sV60JhlYL4IdWjcNvKTJRA.png" alt="">
-
- <h3 align="center">Where To Find Me: 📫</h3>
-<div align="center" display="flex">
-  <a  href="https://www.linkedin.com/in/sunilhooda/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a  href="mailto:sunilhooda698@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a  href="https://github.com/SunilHooda" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  
-</div>
+<img width= 100% src="https://miro.medium.com/max/1400/1*sV60JhlYL4IdWjcNvKTJRA.png" alt="">
 
 <h3 text-align=center >Stay Happy, Stay Motivated  <img height=50px src="https://i.pinimg.com/originals/69/52/88/69528895726f32fc384babcde61a535a.gif" alt=""></h3>
